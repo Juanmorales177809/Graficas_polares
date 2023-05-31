@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>./Iconos/abrir.png</file>
+    <file>./Iconos/polar.png</file>
+    <file>./Iconos/Aceptar.png</file>
+    <file>./Iconos/Agregar.png</file>
+    <file>./Iconos/Cancelar.png</file>
+    <file>./Iconos/Editar.png</file>
+    <file>./Iconos/Eliminar.png</file>
+    <file>./Iconos/Guardar.png</file>
+    <file>./Iconos/interpolar.png</file>
+    <file>./Iconos/ordenar.png</file>
+    <file>./Iconos/cst.png</file>
+
+
+  </qresource>
+</RCC>
